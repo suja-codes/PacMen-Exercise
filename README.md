@@ -1,8 +1,10 @@
-## PacMen Exercise
+<h1 align="center">PacMen Exercise</h1>
 
-This exercise shows use of javascript to create images on demand and making them move.
+<h4 align="center">This exercise shows use of javascript to create images on demand and making them move.</h4>
 
+<div align="center" id="top"> 
 <img src ="./pacmen.jpg" width ='400'/>
+</div>
 
 ### Description 
 
@@ -16,7 +18,7 @@ This exercise shows use of javascript to create images on demand and making them
 
 ### To Run this Program
 
-In order to run this file, open the index.html file in a browser.
+In order to run this file, Fork and Clone the repository to your local machine and open the index.html file in a browser.
 
 - Click the Add PacMan button at the top left-hand side of the screen to create PacMan. A new PacMan should                      appear at a random position on the screen. You can create as many as you want.
 
