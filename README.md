@@ -2,6 +2,8 @@
 
 This exercise shows use of javascript to create images on demand and making them move.
 
+<img src ="./pacmen.jpg" width ='400'/>
+
 ### Description 
 
 - This exercise generates image of the classic PacMan game on-demand with the click of a button.
