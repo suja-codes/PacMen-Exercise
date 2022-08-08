@@ -1,14 +1,15 @@
 <h1 align="center">PacMen Exercise</h1>
-
+<br>
 <h4 align="center">This exercise shows use of javascript to create images on demand and making them move.</h4>
 
-<div align="center" id="top"> 
-<img src ="./pacmen.jpg" width ='400'/>
-</div>
 <br>
 <br>
 
-*Click to see: [PacMen in action](https://suja-codes.github.io/PacMen-Exercise/)*
+https://user-images.githubusercontent.com/104742558/183474073-fcb4164f-4d71-412d-9b4a-14cfb930544c.mp4
+
+<br>
+
+*Click to see: [Github page for this repository](https://suja-codes.github.io/PacMen-Exercise/)*
 
 ### Description 
 
