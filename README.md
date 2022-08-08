@@ -5,6 +5,10 @@
 <div align="center" id="top"> 
 <img src ="./pacmen.jpg" width ='400'/>
 </div>
+<br>
+<br>
+
+*Click to see: [PacMen in action](https://suja-codes.github.io/PacMen-Exercise/)*
 
 ### Description 
 
